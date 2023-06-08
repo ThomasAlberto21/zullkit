@@ -35,7 +35,7 @@
     </div>
    </div>
    <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-    <img class="w-full lg:w-3/4 lg:mt-8" src="../assets/img/hero-image.png" alt="" />
+    <img class="w-full lg:w-3/4 lg:mt-8" src="@/assets/img/hero-image.png" alt="" />
    </div>
   </div>
 
@@ -47,7 +47,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/categories-1.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-1.jpg" />
        </div>
       </a>
 
@@ -65,7 +65,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/categories-2.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-2.jpg" />
        </div>
       </a>
 
@@ -81,7 +81,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/categories-3.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-3.jpg" />
        </div>
       </a>
 
@@ -97,7 +97,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/categories-4.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/categories-4.jpg" />
        </div>
       </a>
 
@@ -122,7 +122,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/items-1.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-1.jpg" />
        </div>
       </a>
 
@@ -140,7 +140,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/items-2.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-2.jpg" />
        </div>
       </a>
 
@@ -158,7 +158,7 @@
      <div class="overflow-hidden border border-gray-200 rounded-xl">
       <a href="details.html">
        <div class="m-4 overflow-hidden rounded-xl">
-        <img alt="Placeholder" class="block w-full h-auto" src="img/items-3.jpg" />
+        <img alt="Placeholder" class="block w-full h-auto" src="@/assets/img/items-3.jpg" />
        </div>
       </a>
 
