@@ -1,5 +1,11 @@
-<script setup></script>
+<script setup>
+
+</script>
 
 <template>
-  <main></main>
+  <main>
+    <Navbar />
+  </main>
 </template>
+
+
