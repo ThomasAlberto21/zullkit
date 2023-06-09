@@ -7,7 +7,7 @@
 
 <script>
 import { RouterView } from 'vue-router'
-import Navbar from '@/components/Navbar.vue'
+import Navbar from './components/layouts/Navbar.vue';
 
 export default {
  name: 'App',
