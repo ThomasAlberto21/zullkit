@@ -57,7 +57,7 @@
 </template>
 
 <script>
-import Logo from './logo.vue'
+import Logo from './logo.vue';
 
 export default {
  name: 'NavbarComponent',
