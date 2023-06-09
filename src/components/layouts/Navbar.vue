@@ -1,9 +1,7 @@
 <template>
  <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800">
   <div class="flex flex-wrap items-center justify-between max-w-screen-xl p-4 mx-auto">
-   <router-link to="/" class="flex items-center">
-    <img src="@/assets/img/logo.svg" class="h-8 ml-3 sm:ml-0 sm:h-8" alt="logo" />
-   </router-link>
+   <Logo />
    <div class="md:order-2">
     <a
      href="#"
@@ -59,7 +57,12 @@
 </template>
 
 <script>
+import Logo from './logo.vue'
+
 export default {
- name: 'NavbarComponent'
+ name: 'NavbarComponent',
+ components: {
+  Logo
+ }
 }
 </script>
