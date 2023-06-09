@@ -1,9 +1,9 @@
 <template>
  <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-800">
   <div class="flex flex-wrap items-center justify-between max-w-screen-xl p-4 mx-auto">
-   <a href="#" class="flex items-center">
+   <router-link to="/" class="flex items-center">
     <img src="@/assets/img/logo.svg" class="h-8 ml-3 sm:ml-0 sm:h-8" alt="logo" />
-   </a>
+   </router-link>
    <div class="md:order-2">
     <a
      href="#"
@@ -45,13 +45,13 @@
        >Pricing</router-link
       >
      </li>
-     <li>
+     <!-- <li>
       <router-link
        to="/study_case"
        class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-indigo-600 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700"
        >Study Case</router-link
       >
-     </li>
+     </li> -->
     </ul>
    </div>
   </div>
