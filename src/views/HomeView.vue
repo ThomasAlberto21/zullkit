@@ -142,7 +142,7 @@
 </template>
 
 <script>
-import Hero from '../components/Hero.vue'
+import Hero from '../components/homepages/Hero.vue'
 
 export default {
  name: 'HomeView',
