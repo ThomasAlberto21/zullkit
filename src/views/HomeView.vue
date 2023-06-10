@@ -1,9 +1,12 @@
+<script setup>
+import Hero from '../components/homepages/Hero.vue'
+import Categories from '../components/homepages/Categories.vue'
+</script>
+
 <template>
   <main>
-    <!-- Hero banner -->
     <Hero />
 
-    <!-- Category -->
     <Categories />
     <!-- New Items -->
     <div class="container px-4 mx-auto my-16 md:px-12">
@@ -75,14 +78,7 @@
 </template>
 
 <script>
-import Hero from '../components/homepages/Hero.vue'
-import Categories from '../components/homepages/Categories.vue'
-
 export default {
-  name: 'HomeView',
-  components: {
-    Hero,
-    Categories
-  }
+  name: 'HomeView'
 }
 </script>
